@@ -2,6 +2,7 @@
 Loading Screen for FiveM
 
 Discord: https://discord.gg/tanPeMd
+Youtube Demonstration: https://youtu.be/H3d4e3tRVR8
 
 <a href="https://imgur.com/s0LLdWb"><img src="https://i.imgur.com/s0LLdWb.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/czZgx4P"><img src="https://i.imgur.com/czZgx4P.png" title="source: imgur.com" /></a>
